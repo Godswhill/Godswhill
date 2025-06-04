@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with brilliant minds on various projects
 - 📫 reach me on instagram, my link is on my profile page
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I'm a student of Applied Geology at FUTA, I lowkey want to do something relating to ML for my project. Wish me well 
+
 
 <!---
 Godswhill/Godswhill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
