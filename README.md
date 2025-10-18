@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Godswhill
 - 👀 I’m interested in Tech Stuff, music and the real football
-- 🌱 I’m currently learning Data Science and Machine Learning with python
 - 💞️ I’m looking to collaborate with brilliant minds on various projects
 - 📫 reach me on instagram, my link is on my profile page
 - 😄 Pronouns: He, Him
